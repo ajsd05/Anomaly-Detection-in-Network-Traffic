@@ -1,8 +1,25 @@
-*.gz
-__pycache__/
+# =============================
+# Python Project .gitignore
+# =============================
+
+# Ignore virtual environment
 venv/
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore dataset and large files
+*.gz
+
+# Ignore macOS system files
 .DS_Store
 
-# Ignore datasets
-*.gz
-data/
+# Ignore IDE/editor config files
+.vscode/
+.idea/
