@@ -29,13 +29,18 @@ On Windows
 venv\Scripts\activate
 ```
 
-### 3. Install Dependencies
+### 3. Activate the Virtual Environment
+```bash
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
 
 Once the virtual environment is active, install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Install the dataset
-https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link
+### 5. Install the dataset
+https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link \n
 Once the dataset is downloaded, place it in the CS549-CouseProject folder
 
