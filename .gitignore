@@ -1,17 +1,4 @@
-# Ignore virtual environment
-venv/
-
-# Ignore Python cache files
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Ignore environment and IDE settings
-.env
-*.env
-*.DS_Store
-*.vscode/
-.idea/
-
-# Ignore .gz files
 *.gz
+__pycache__/
+venv/
+.DS_Store
