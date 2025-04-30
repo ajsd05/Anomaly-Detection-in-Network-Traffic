@@ -41,6 +41,7 @@ Once the virtual environment is active, install the required packages:
 pip install -r requirements.txt
 ```
 ### 5. Install the dataset
-https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link \n
+https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link 
+
 Once the dataset is downloaded, place it in the CS549-CouseProject folder
 
