@@ -22,7 +22,9 @@ cd CS549-CourseProject
 On macOS/Linux
 ```bash
 python -m venv venv
+python3 -m venv venv #
 ```
+
 
 On Windows
 ```cmd
