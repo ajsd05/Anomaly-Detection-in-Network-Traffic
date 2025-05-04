@@ -22,7 +22,7 @@ cd CS549-CourseProject
 On macOS/Linux
 ```bash
 python -m venv venv
-python3 -m venv venv #
+python3 -m venv venv # if python3 is command propmt for python
 ```
 
 
@@ -46,4 +46,11 @@ pip install -r requirements.txt
 Download `kddcup.data_10_percent.gz` from: https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link 
 
 Once the dataset is downloaded, place it in the `data/` folder.
+
+#### 6. Open Jupyter Notebook and access the project file
+After the virtual environment is activated:
+```bash
+jupyter notebook
+```
+Then open **CS549Project.ipynb** to access the project code.
 
