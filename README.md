@@ -47,6 +47,8 @@ Once the virtual environment is active, install the required packages:
 pip install -r requirements.txt
 ```
 #### 5. Install the dataset
+**If dataset is not in data/ folder then complete steps below**
+
 Download `kddcup.data_10_percent.gz` from: https://drive.google.com/file/d/1opkTRPvW9CjIDlFzV6jh5q_Nr4j75SMh/view?usp=drive_link 
 
 Once the dataset is downloaded, place it in the `data/` folder.
