@@ -1,4 +1,8 @@
-# CS549-CourseProject
+# Anomaly Detection in Network Traffic
+This project aims to develop machine learning pipelines that aid in detecting network
+anomalies/attacks by creating a predictive model that distinguishes the “bad” connections
+from “good” connections. This is done through data preprocessing, implementation of
+several machine learning algorithms, and comprehensive evaluation of said models.
 ## Project Setup Guide
 
 Follow the steps below to set up this project on your computer
