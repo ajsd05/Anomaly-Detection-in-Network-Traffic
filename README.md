@@ -60,4 +60,6 @@ After the virtual environment is activated:
 jupyter notebook
 ```
 Then open **CS549Project.ipynb** to access the project code.
+#### 7. Run the code
+Once the notebook is open run all the cells to view the results.
 
