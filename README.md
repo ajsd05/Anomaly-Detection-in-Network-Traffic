@@ -14,6 +14,7 @@ Follow the steps below to set up this project on your computer
 
 ### Getting Started
 
+*If viewing from GitHub, start at step 1, if not, proceed to step 2*
 #### 1. Clone the Repository
 
 ```bash
